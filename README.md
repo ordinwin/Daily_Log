@@ -1,1 +1,3 @@
 # Daily_Log
+log my daily idea
+my blog ...
